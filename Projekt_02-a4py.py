@@ -1,3 +1,11 @@
+"""
+ENGETO - Datový analytik s pythonem - 17/10/2024
+Projekt 2 - Buls and Cows
+Michal Dvořák - dvmichal@gmail.com
+Základní hra s variacemi, jako možnost volby obtížnosti, přihlašování a registrace, mod "host"
+zápis statistik do db JSON
+"""
+
 import json
 import time
 from datetime import datetime, timedelta
